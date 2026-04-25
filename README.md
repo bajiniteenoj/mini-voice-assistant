@@ -21,5 +21,22 @@ It listens to voice commands, responds using speech, and performs basic actions 
 - Add AI chatbot integration
 - Build full Jarvis-style assistant
 
+## How to Run
+
+1. Install Python
+2. Install required libraries:
+
+pip install speechrecognition pyttsx3 pyaudio
+
+3. Run the assistant:
+
+python assistant.py
+
+4. Speak commands like:
+- hello
+- open google
+- open youtube
+- exit
+  
 ## Author
 Teenoj
